@@ -1,0 +1,52 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+
+body { 
+	background-color: #ffffff;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	margin-left: 60px
+	margin-right: 60px;
+}
+
+img{
+	text-align: center;
+	height: 400px;
+	width: 100%
+}
+
+h1 {
+	text-align: center;
+	color: #e74c3c;
+	font-family: Helvetica, sans-serif;
+	font-size: 60px;
+	margin: 40px;
+
+}
+
+ul {
+	text-align: left;
+	font-weight: normal;
+	margin: 20px
+
+}
+
+#slogan {
+	font-style: italic;
+	font-weight: normal;
+	margin: 40px
+}
+
+footer, a {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+	margin: 40px;
+
+}
+
