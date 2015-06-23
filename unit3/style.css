@@ -7,7 +7,7 @@
 body { 
 	background-color: #ffffff;
 	text-align: center;
-	font-family: Helvetica, sans-serif;
+	font-family: 'News Cycle', sans-serif;
 	font-size: 14px;
 	margin-left: 60px
 	margin-right: 60px;
@@ -22,7 +22,7 @@ img{
 h1 {
 	text-align: center;
 	color: #e74c3c;
-	font-family: Helvetica, sans-serif;
+	font-family: 'News Cycle', sans-serif;
 	font-size: 60px;
 	margin: 40px;
 
