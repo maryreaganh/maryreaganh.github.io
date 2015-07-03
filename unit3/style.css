@@ -13,6 +13,12 @@ body {
 	margin-right: 60px;
 }
 
+p {
+	text-align: center;
+	
+
+}
+
 img{
 	text-align: center;
 	height: 400px;
@@ -29,7 +35,7 @@ h1 {
 }
 
 ul {
-	text-align: left;
+	text-align: center;
 	font-weight: normal;
 	margin: 20px
 
