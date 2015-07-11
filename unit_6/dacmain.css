@@ -10,7 +10,9 @@ header{
 	font-family: Marick Script, Helvetica, serif;
 	font-weight: bold;
 	font-size: 4em;
+	color: #5882FA;
 	text-transform: uppercase;
+	background-color: #000000;
 
 }
 
@@ -28,5 +30,7 @@ nav{
 
 #slogan{
 	font-family: Marick Script;
+	font-size: 2em;
+	color: #FE2E9A;
 
 }
