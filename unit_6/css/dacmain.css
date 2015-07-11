@@ -1,0 +1,32 @@
+
+
+body{
+	font-size: 12px;
+
+
+}
+
+header{
+	font-family: Marick Script, Helvetica, serif;
+	font-weight: bold;
+	font-size: 4em;
+	text-transform: uppercase;
+
+}
+
+footer{
+	font-family: Helvetica, serif;
+	font-weight: lighter;
+	font-size: .5em;
+	color: white;
+	padding: 2em 2em blue; 
+}
+
+nav{
+
+}
+
+#slogan{
+	font-family: Marick Script;
+
+}
