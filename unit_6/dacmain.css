@@ -1,3 +1,7 @@
+*{
+	margin: 0;
+}
+
 
 
 body{
@@ -33,6 +37,7 @@ nav{
 	background-color: #ffffff;
 	font-size: 12px;
 	clear: both;
+	padding: 20px 20px #5882FA;
 }
 
 .clearfix:after {
@@ -63,7 +68,7 @@ a:hover{
 #section{
 	width: 560px;
 	padding: 20px 0;
-	margin: 0 0 0 30px;
+	margin: 20px 0 0 0;
 	float: left;
 	color: #000000;
 }
@@ -73,12 +78,17 @@ h3{
 	font-size: 14px;
 }
 
+img{
+	width: 20%;
+	float: left;
+}
+
 aside{
 	font-size: 14px;
 	width: 240px;
 	padding: 60px 20px;
 	margin: 0 20px 0 0;
-	float: right;
+	float: left;
 	color: #000000;
 	background-color: #FE2E9A;
 }
