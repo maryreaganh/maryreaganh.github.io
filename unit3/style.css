@@ -8,8 +8,8 @@ body {
 	background-color: #ffffff;
 	text-align: center;
 	font-family: 'News Cycle', Arial, sans-serif;
-	font-size: 10px;
-	line-height: 0;
+	font-size: 15px;
+	line-height: 2em;
 	margin: none;
 }
 
@@ -19,21 +19,24 @@ p {
 	margin: .5em;
 	font-family: 'News Cycle';
 	display: block;	
+	padding: 1.5em;
 
 }
 
 img{
 	text-align: center;
-	height: 400px;
+	height: 200px;
 	width: 100%;
 }
 
 h1 {
 	text-align: center;
+	text-transform: uppercase;
+	display: inline-block;
 	color: #e74c3c;
 	font-family: 'News Cycle', sans-serif;
 	font-size: 2.5em;
-	margin: 1.5em;
+	margin: .5em;
 
 }
 
@@ -51,14 +54,14 @@ nav a{
 
 #mobilenav {
 	display: block;
-	font-size: 2em;
-	padding: 1.5em;
+	font-size: 3em;
+	padding: .5em;
 }
 
 #slogan {
 	font-style: italic;
 	font-weight: normal;
-	margin: 1.5em;
+	margin: 0em;
 }
 
 footer, a {
@@ -66,7 +69,7 @@ footer, a {
 	font-weight: bold;
 	color: #000000;
 	text-align: center;
-	margin: 2em;
+	margin: 0em;
 
 }
 
