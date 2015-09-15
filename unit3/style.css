@@ -10,8 +10,7 @@ body {
 	font-family: 'News Cycle', Arial, sans-serif;
 	font-size: 10px;
 	line-height: 0;
-	margin-left: 60px;
-	margin-right: 60px;
+	margin: none;
 }
 
 p {
@@ -19,7 +18,7 @@ p {
 	font-size: 1em;
 	margin: .5em;
 	font-family: 'News Cycle';
-	display: inline-block;	
+	display: block;	
 
 }
 
