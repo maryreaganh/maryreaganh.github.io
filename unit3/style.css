@@ -22,7 +22,7 @@ p {
 img{
 	text-align: center;
 	height: 400px;
-	width: 100%
+	width: 100%;
 }
 
 h1 {
@@ -42,7 +42,7 @@ nav a{
 	color: #eeeeee;
 	text-decoration: none;
 	display: none;
-	padding: .5em;
+	padding: 1.5em;
 
 }
 
@@ -63,7 +63,7 @@ footer, a {
 	font-weight: bold;
 	color: #000000;
 	text-align: center;
-	margin: 2.5em;
+	margin: .5em;
 
 }
 
