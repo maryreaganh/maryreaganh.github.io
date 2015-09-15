@@ -38,6 +38,14 @@ nav {
 	background-color: #0FA1A5;
 }
 
+nav a{
+	color: #eeeeee;
+	text-decoration: none;
+	display: none;
+	padding: .5em;
+	
+}
+
 #mobilenav {
 	display: block;
 	font-size: 2em;
