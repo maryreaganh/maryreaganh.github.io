@@ -18,7 +18,8 @@ p {
 	text-align: center;
 	font-size: 1em;
 	margin: .5em;
-	font-family: 'News Cycle';	
+	font-family: 'News Cycle';
+	display: inline-block;	
 
 }
 
