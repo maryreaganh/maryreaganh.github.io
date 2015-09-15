@@ -30,7 +30,7 @@ h1 {
 	color: #e74c3c;
 	font-family: 'News Cycle', sans-serif;
 	font-size: 2.5em;
-	margin: .5em;
+	margin: 1.5em;
 
 }
 
@@ -41,13 +41,13 @@ nav {
 #mobilenav {
 	display: block;
 	font-size: 2em;
-	padding: 0;
+	padding: 1.5em;
 }
 
 #slogan {
 	font-style: italic;
 	font-weight: normal;
-	margin: 2.5em;
+	margin: 1.5em;
 }
 
 footer, a {
@@ -55,7 +55,7 @@ footer, a {
 	font-weight: bold;
 	color: #000000;
 	text-align: center;
-	margin: .5em;
+	margin: 1.5em;
 
 }
 
