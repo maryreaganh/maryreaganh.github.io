@@ -15,7 +15,10 @@ body {
 }
 
 p {
-	text-align: center;	
+	text-align: center;
+	font-size: 1em;
+	margin: .5em;
+	font-family: 'News Cycle';	
 
 }
 
@@ -63,7 +66,7 @@ footer, a {
 	font-weight: bold;
 	color: #000000;
 	text-align: center;
-	margin: .5em;
+	margin: 2em;
 
 }
 
